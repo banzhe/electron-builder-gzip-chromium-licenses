@@ -1,6 +1,6 @@
 {
   "name": "@banzhe/electron-builder-gzip-chromium-licenses",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "electron-builder afterPack hook that replaces LICENSES.chromium.html with a gzip file to shrink installed Electron apps.",
   "keywords": [
     "electron",
